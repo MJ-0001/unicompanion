@@ -15,7 +15,7 @@ Section | Description
 [Questions](#Questions?) | Where you can reach me
 
 ## Deployment
-OPEN "UniCompanion" ---> [HERE](https://unicompanion.herokuapp.com/)
+OPEN "UniCompanion" ---> [HERE](https://uni-companion-app.herokuapp.com/)
 
 ## Technologies
 
@@ -74,6 +74,6 @@ Application in action --->
 
 Please contact me through my GitHub provided below if you have any questions relating to how the application works or any of my other projects
 
-My GitHub username is Robbie-Bridgwater
+My GitHub username is MJ-0001
 
-Link to my GitHub Profile ---> https://github.com/Robbie-Bridgwater
+Link to my GitHub Profile ---> https://github.com/MJ-0001
